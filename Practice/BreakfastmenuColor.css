@@ -1,0 +1,33 @@
+h2 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: coral
+}
+
+.box {
+    width: 30%;
+    margin: auto;
+    background-color: cornflowerblue;
+    font-size: 25px;
+    font-family: Tahoma, serif;
+    border: 5px solid black;
+}
+
+.box1 {
+    color: brown;
+    font-family: Arial, serif;
+}
+
+.box2 {
+    border: 3px dotted blue;
+    border-radius: 20px;
+    text-align: center;
+    color: mediumvioletred;
+}
+
+a:hover {
+    color: red
+}

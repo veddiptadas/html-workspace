@@ -1,0 +1,12 @@
+table {
+    width: auto;
+    border-spacing: 6px;
+}
+
+th {
+    align-content: center;
+}
+
+table, th, td {
+    border: 1px solid black
+}
